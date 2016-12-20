@@ -1,0 +1,8 @@
+{
+  "name": "fusecolle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:stuf/fusecolle.git",
+  "author": "Stefan Rimaila <stefan@rimaila.fi>",
+  "license": "MIT"
+}
