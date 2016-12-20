@@ -2,6 +2,9 @@
   "name": "fusecolle",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "fuse preview"
+  },
   "repository": "git@github.com:stuf/fusecolle.git",
   "author": "Stefan Rimaila <stefan@rimaila.fi>",
   "license": "MIT"
